@@ -3,6 +3,9 @@ Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) an
 
 Time: 44hour 
 
+## Complete 2024.07.15
+<img src="./img/finished.png"/>
+
 ## Content
 |     | chapter                                                     | name                                          |
 | --- | ----------------------------------------------------------- | --------------------------------------------- |
